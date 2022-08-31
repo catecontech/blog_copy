@@ -1,0 +1,9 @@
+../myenv
+./.env
+blog_proj/.env
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python
